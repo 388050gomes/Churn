@@ -25,3 +25,4 @@ Possuo mestrado acadêmico em Economia pela Universidade Federal do Ceará - UFC
 * **Análise de Dados do AirBnb em New York:** https://bit.ly/3LoGngP
 * **Panorama da Covid-19 no Piauí:** https://bit.ly/3MrWZ89
 * **Detecção de Fraudes em Cartões de Crédito:** https://bityli.com/LUGPf
+* **Previsão de Rotatividade de Clientes:**https://bit.ly/3Ts0IWK
